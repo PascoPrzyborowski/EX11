@@ -43,7 +43,7 @@
 
 #Task7
 
-first_name = "Pasco"
-last_name = "Przyborowski"
-print("Firstname: " +first_name +"\n" + "Lastname: " + last_name)
+# first_name = "Pasco"
+# last_name = "Przyborowski"
+# print("Firstname: " +first_name +"\n" + "Lastname: " + last_name)
 
